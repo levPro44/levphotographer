@@ -1,0 +1,17 @@
+/work/
+/.env
+*.pem
+*.key
+*.hash
+*.bak
+*.backup
+private/
+sessions/
+images/
+config.local.php
+*-index.json
+*status.json
+*conversions*.json
+catalog-*.json
+job-*.json
+*.jsonl
